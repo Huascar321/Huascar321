@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://miro.medium.com/max/1400/1*qG18a09h0wSBZjPZlwUJnw.gif)
 
 <!--
 **Huascar321/Huascar321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
