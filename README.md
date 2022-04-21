@@ -1,5 +1,5 @@
 ### Hi there 👋
-![programming](https://wallpaperaccess.com/full/5110466.jpg)
+![programming](https://i.gifer.com/embedded/download/7k5e.gif)
 
 <!--
 **Huascar321/Huascar321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
