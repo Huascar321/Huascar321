@@ -1,4 +1,3 @@
-### Hi there 👋
 ![programming](https://github.com/Huascar321/Huascar321/blob/master/tumblr_o4z5kjnyJ51uqrdeoo1_500.gif)
 
 <!--
